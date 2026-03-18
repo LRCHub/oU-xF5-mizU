@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "The Recipe",
+  "base_artist": "Kendrick Lamar",
+  "createdAt": "2026-03-18T19:45:15.958435Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Recipe",
+      "artist": "Kodak Black",
+      "has_synced": true,
+      "path": "select/01_The_Recipe_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Recipe",
+      "artist": "Kendrick Lamar feat. Dr. Dre",
+      "has_synced": true,
+      "path": "select/02_The_Recipe_Kendrick_Lamar_feat._Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Recipe (Feat. Dr Dre)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/03_The_Recipe_(Feat._Dr_Dre)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Recipe",
+      "artist": "Kendrick Lamar featuring Dr. Dre",
+      "has_synced": true,
+      "path": "select/04_The_Recipe_Kendrick_Lamar_featuring_Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Recipe",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/05_The_Recipe_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Recipe (Black Hippy Remix) - Bonus Track",
+      "artist": "Kendrick Lamar feat. Dr. Dre",
+      "has_synced": false,
+      "path": "select/06_The_Recipe_(Black_Hippy_Remix)_-_Bonus_Track_Kendrick_Lamar_feat._Dr._Dre.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Recipe",
+      "artist": "Kendrick Lamar; Dr. Dre",
+      "has_synced": true,
+      "path": "select/07_The_Recipe_Kendrick_Lamar;_Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Recipe - Bonus Track",
+      "artist": "Kendrick Lamar feat. Dr. Dre",
+      "has_synced": true,
+      "path": "select/08_The_Recipe_-_Bonus_Track_Kendrick_Lamar_feat._Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Recipe (Feat. Dr. Dre) (Bonus Track)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/09_The_Recipe_(Feat._Dr._Dre)_(Bonus_Track)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Recipe (Feat. Dr. Dre)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/10_The_Recipe_(Feat._Dr._Dre)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Recipe",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/11_The_Recipe_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Recipe",
+      "artist": "Kendrick Lamar feat. Dr. Dre",
+      "has_synced": true,
+      "path": "select/12_The_Recipe_Kendrick_Lamar_feat._Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Recipe (Feat. Dr Dre) (Bonus Track)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/13_The_Recipe_(Feat._Dr_Dre)_(Bonus_Track)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Recipe",
+      "artist": "10 Years",
+      "has_synced": true,
+      "path": "select/14_The_Recipe_10_Years.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Recipe",
+      "artist": "State Champs",
+      "has_synced": true,
+      "path": "select/15_The_Recipe_State_Champs.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Recipe (Feat. Dr. Dre) (Bonus Track)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/16_The_Recipe_(Feat._Dr._Dre)_(Bonus_Track)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Recipe",
+      "artist": "Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/pl_01_The_Recipe_Kendrick_Lamar.txt"
+    }
+  ]
+}
